@@ -8,11 +8,6 @@ A collection of 17 different sorting algorithms implemented in Python with visua
 - [Features](#features)
 - [Algorithms Included](#algorithms-included)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
