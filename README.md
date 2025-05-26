@@ -1,51 +1,23 @@
-# Sorting Algorithms Visualization
+# Sorting Algorithms Visualization 🌀
 
-![Sorting Algorithms](https://img.shields.io/badge/Sorting-Algorithms-blue) ![Python](https://img.shields.io/badge/Python-3.x-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Python](https://img.shields.io/badge/Python-3.8+-blue) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5+-orange)
+![Algorithms](https://img.shields.io/badge/17-Sorting_Algorithms-green)
 
-A collection of 17 different sorting algorithms implemented in Python with visualization using Matplotlib.
+Interactive visualizations of 17 sorting algorithms implemented in Python with Matplotlib animations.
 
-## Table of Contents
-- [Features](#features)
-- [Algorithms Included](#algorithms-included)
-- [Requirements](#requirements)
+## 🌟 Featured Algorithms
 
-## Features
+| Category       | Algorithms                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| **Comparison** | Bubble, Comb, Cocktail Shaker, Gnome, Quick, Merge, Heap, Insertion, Selection, Shell, Strand, Bitonic |
+| **Non-Comparison** | Counting, Radix, Pigeonhole                                              |
+| **Esoteric**   | Bogo, Sleep                                                              |
 
-- Visual representation of how different sorting algorithms work
-- Step-by-step animation of the sorting process
-- Comparison of algorithm performance
-- Clean and modular code structure
-- Customizable array size and animation speed
+## 🚀 Quick Start
 
-## Algorithms Included
-
-1. **Basic Sorts**:
-   - Bubble Sort
-   - Selection Sort
-   - Insertion Sort
-
-2. **Efficient Sorts**:
-   - Merge Sort
-   - Quick Sort
-   - Heap Sort
-   - Shell Sort
-
-3. **Specialized Sorts**:
-   - Counting Sort
-   - Radix Sort
-   - Bucket Sort
-
-4. **Exotic Sorts**:
-   - Gnome Sort
-   - Cocktail Shaker Sort
-   - Comb Sort
-   - Cycle Sort
-   - Odd-Even Sort
-   - Bogo Sort (for fun!)
-   - Stooge Sort
-
-## Requirements
-
-- Python 3.x
-- Matplotlib
-- NumPy
+```bash
+git clone https://github.com/l0gicx/sorting-visualizer.git
+cd sorting-visualizer
+pip install -r requirements.txt
+python bubble_sort.py  # Replace with any algorithm
